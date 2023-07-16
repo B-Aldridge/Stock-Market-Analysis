@@ -1,20 +1,15 @@
 # Project1_Group1
 
-## Contributions 
-Generally speaking, each member worked equal parts on the code,  the analysis of the data, and the powerpoint presentation. 
-|Member|Contribution|
-|------|------------|
-|Seth  | Intro, slides 1 & 2, volume & price|
-|Andrew| slides 3 & 4, `README.md`, average trading volume, price|
-|Madi| slides 5 & 6, data cleanup, dividend yield|
-|Josh| slides 7 & 8, API, seasonal analysis|
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-## Objective
+
+## Description/Objective
 Our goal was to analyze the stock data of three telecommunications companies--AT&T, T-Mobile, and Verizon--and determine which company a potential investor should invest in. 
 
 Overall, we determined that AT&T is the best option because it's less volatile and because of it's liquidity and consistent dividend payments, but it would be wise to view each company's financial reports before making a final decision. 
 
-## Obtaining the data
+## Project Struction
 
 We obtained our data from the [NASDAQ website](https://www.nasdaq.com/) using the API. <!-- on their [Developer Platform](https://developer.nasdaq.com/). -->
 
@@ -189,3 +184,12 @@ Decrease in earnings: If it's not the price, then maybe AT&T and Verizon have a 
 ![](Output_Graphs/7_31.png)
 
 ![](Output_Graphs/7_32.png) -->
+
+## Contributions 
+Generally speaking, each member worked equal parts on the code,  the analysis of the data, and the powerpoint presentation. 
+|Member|Contribution|Github|
+|------|------------|------|
+|Seth  | Intro, slides 1 & 2, volume & price| https://github.com/SNbeverley
+|Andrew| slides 3 & 4, `README.md`, average trading volume, price|https://github.com/a676-code
+|Madi| slides 5 & 6, data cleanup, dividend yield| https://github.com/mssubaiti
+|Joshua| slides 7 & 8, API, seasonal analysis|https://github.com/B-Aldridge
