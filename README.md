@@ -5,6 +5,9 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+# Forked Project Note:
+
+I forked this group project to add a useful description that was missing. As a contributor to the original project, I believe this addition will enhance its visibility and usefulness. Feel free to check out the original project [here](https://github.com/mssubaiti/Project1_Group1).
 
 ## Description/Objective
 Our goal was to analyze the stock data of three telecommunications companies--AT&T, T-Mobile, and Verizon--and determine which company a potential investor should invest in. 
